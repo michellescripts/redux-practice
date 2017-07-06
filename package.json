@@ -1,0 +1,25 @@
+{
+  "name": "redux-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "counter.js",
+  "dependencies": {
+    "expect": "^1.20.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihshhehl/redux-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihshhehl/redux-practice/issues"
+  },
+  "homepage": "https://github.com/mihshhehl/redux-practice#readme"
+}
